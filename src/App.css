@@ -1,0 +1,9 @@
+body {
+  background-color: rgb(250, 250, 250);
+}
+
+.app {
+  width: 500px;
+  margin: 10% auto;
+  padding: 2%;
+}

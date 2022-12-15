@@ -1,0 +1,14 @@
+.header--todo {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.header--todo a {
+    text-decoration: none;
+}
+
+.header--todo a li {
+    list-style-type: none;
+    font-size: 24px;
+    color: gray;
+}

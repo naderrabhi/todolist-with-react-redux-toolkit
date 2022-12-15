@@ -1,0 +1,13 @@
+.task--todo {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.task--todo--button .btn {
+    margin-right: 15px;
+}
+
+.done {
+    text-decoration: line-through;
+    color: gray;
+}
